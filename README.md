@@ -22,12 +22,9 @@ The screenshots above are stored in [`Images/`](Images/). They are also useful a
 
 ### Demo video
 
-<video controls playsinline preload="metadata" width="100%">
-  <source src="Images/Video/Intro.mp4" type="video/mp4" />
-  Your browser does not support embedded video. [Open the Canvas demo video](Images/Video/Intro.mp4).
-</video>
+[![Play the Canvas demo video](Images/Video/Intro.jpg)](Images/Video/Intro.mp4)
 
-The video is also available as a direct link: [Canvas demo video](Images/Video/Intro.mp4).
+Click the poster above to play the video: [Canvas demo video](Images/Video/Intro.mp4).
 
 ## Run
 
