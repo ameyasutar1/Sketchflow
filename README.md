@@ -22,9 +22,7 @@ The screenshots above are stored in [`Images/`](Images/). They are also useful a
 
 ### Demo video
 
-[![Play the Canvas demo video](Images/Video/Intro.jpg)](Images/Video/Intro.mp4)
-
-Click the poster above to play the video: [Canvas demo video](Images/Video/Intro.mp4).
+https://github.com/user-attachments/assets/4b397dcd-cfcc-4aae-8cb4-08f41c4eb649
 
 ## Run
 
