@@ -20,6 +20,10 @@ Ask the assistant to create a diagram or expand an existing selection. The resul
 
 The screenshots above are stored in [`Images/`](Images/). They are also useful as a quick visual check after starting the local app: the first shows the workspace before an edit, and the second shows the assistant creating and explaining a detailed Transformer architecture.
 
+### Demo video
+
+Watch the product walkthrough: [Canvas demo video](Images/Video/Intro.mp4).
+
 ## Run
 
 Requires Python 3.12+ and Node 22.12+ (tested with Python 3.12 / Node 24.14).
